@@ -1,0 +1,2 @@
+# CSON
+CoreScript Object Notation
